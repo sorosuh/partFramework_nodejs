@@ -1,0 +1,9 @@
+{
+  "moduleType": "project",
+  "name": "sampleProject",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "partFramework": ">=9.6.0 <10.0.0"
+  }
+}
