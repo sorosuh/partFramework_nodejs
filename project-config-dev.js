@@ -130,6 +130,7 @@ let redisSessionConfig = {
     db: 1
   }
 };
+
 let partSessionManagerConfig = {
   global: {
     tokenLength: 25,
@@ -148,6 +149,7 @@ let partSessionManagerConfig = {
   },
   instance: {}
 };
+
 let partJsonValidatorConfig = {
   global: {
     allErrors: true,

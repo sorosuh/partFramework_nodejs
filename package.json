@@ -4,6 +4,17 @@
   "main": "./index.js",
   "version": "1.0.0",
   "dependencies": {
-    "partFramework": ">=9.6.0 <10.0.0"
+    "glob": "^7.1.6",
+    "install": "^0.13.0",
+    "isaacs": "0.0.2",
+    "node-pre-gyp": "^0.14.0",
+    "partFramework": "^9.9.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.5",
+    "save": "^2.4.0",
+    "q": "latest"
+  },
+  "devDependencies": {
+    "uuid4": "^1.1.4"
   }
 }
